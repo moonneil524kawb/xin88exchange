@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Xin88 - Sân Chơi Thể Thao, Casino, Nổ Hũ... Uy Tín 2025
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`https://xin88.exchange/  <https://xin88.exchange/ >`_ thành lập năm 2014 với trụ sở tại Manila, Philippines, là một trong những sân chơi trực tuyến hàng đầu, được đánh giá cao nhờ sự chuyên nghiệp và cam kết chất lượng. Với giao diện hiện đại, tốc độ giao dịch nhanh chóng và hệ thống bảo mật chuẩn quốc tế, Xin88 mang đến một sân chơi công bằng và an toàn. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Xin88 cung cấp loạt sản phẩm đa dạng như thể thao, casino live, xổ số, bắn cá đổi thưởng, nổ hũ và đá gà, cùng các chương trình ưu đãi hấp dẫn và dịch vụ chăm sóc khách hàng 24/7. Đặc biệt, Xin88 tương thích trên cả máy tính và di động, giúp người chơi trải nghiệm giải trí mượt mà mọi lúc, mọi nơi. Tham gia Xin88 ngay hôm nay để khám phá giải trí đỉnh cao và nhận nhiều phần thưởng giá trị!
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 110 Đ. Lũy Bán Bích, Tân Thới Hoà, Tân Phú, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0837636361. 
 
-.. toctree::
+Email: info@xin88.exchange. 
 
-   usage
-   api
+Website: https://xin88.exchange/ 
+
+#xin88 #trangchuxin88 #dangkyxin88 #dangnhapxin88 #linkxin88
